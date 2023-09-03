@@ -23,6 +23,7 @@ Each student creates a new branch to work on their recipe, replacing [student_na
 ```
 git checkout -b add-info-[student_name]
 ```
+**Important** You will get a zero for the assignment if you commit directly to the main branch!!
 
 ### Step 4: Adding your Information
 1. Each student creates a new .md file named after themselves (e.g., bill-mccann.md).
