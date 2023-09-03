@@ -19,7 +19,7 @@ git clone https://github.com/njit-prof-bill/git-exercise
 Student may use the GitHub website for cloning, or may also use GitHub Desktop.
 
 ### Step 3: Creating a New Branch
-Each student creates a new branch to work on their recipe, replacing [student_name] with their own name:
+Each student creates a new branch to work on their information, replacing [student_name] with their own name:
 ```
 git checkout -b add-info-[student_name]
 ```
