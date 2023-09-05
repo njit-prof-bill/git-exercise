@@ -39,6 +39,7 @@ Make sure your document contains:
 - Your favorite programming language
 - Your preferred IDE
 - Your hobbies
+- Your favorite cartoon from your childhood
 - A favorite movie, book, music, or video game
 - Your discord id
 - Your GitHub id
