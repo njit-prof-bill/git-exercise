@@ -57,8 +57,9 @@ git push origin add-info-[student_name]
 ### Step 6: Reviewing the Pull Request
 1. Paired up review each other's PRs.
 2. Reviewer looks over the info file in the PR, checking for any mistakes or suggestions. Type a message in the General channel use the @discord_name to tag the person.
-3. Reviewer can leave comments on specific lines of code or on the PR as a whole.
-4. Once the review is complete, if changes are suggested, the author makes the necessary modifications in their local branch and then pushes the updates to the same branch. The PR will be updated automatically.
+3. Reviewer checks to make sure that all the questions have been answered. Request changes if there are unaswered questions.
+4. Reviewer can leave comments on specific lines of code or on the PR as a whole.
+5. Once the review is complete, if changes are suggested, the author makes the necessary modifications in their local branch and then pushes the updates to the same branch. The PR will be updated automatically.
 
 ### Step 7: Merging the Pull Request
 1. Once the reviewer is satisfied with the changes and approves the PR, they merge the PR into the main branch.
