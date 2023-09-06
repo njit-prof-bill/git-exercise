@@ -1,8 +1,9 @@
-Jason Zheng
-Python
-Visual Studio Code
-Watching Sports
-Regular Show
-Call of Duty: Warzone
-Discord: @jason.zheng
-GitHubId: @jasonzheng32
+| Name | Jason Zheng |
+| ---------------------------- | ------------------------------|
+| Favorite Programing Language | Python |
+| Favroite IDE | Visual Studio Code |
+| Hobby | Watching Sports |
+| Favorite Childhood Show | Regular Show |
+| Favoirte Video Game | Call of Duty: Warzone |
+| Discord | @jason.zheng |
+| GitHubId | @jasonzheng32 |
