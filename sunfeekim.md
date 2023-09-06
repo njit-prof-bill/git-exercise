@@ -1,4 +1,5 @@
-
+| Blah | Blah |
+| --- | ---|
 | Name | Sunfee Kim |
 | Favorite Language | Python |
 | Preferred IDE | Visual studio/VScode |
