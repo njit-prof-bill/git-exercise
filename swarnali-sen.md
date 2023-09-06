@@ -1,0 +1,8 @@
+- Swarnali Sen
+- Python
+- Visual Studio Code
+- Gaming and movies
+- Tom and Jerry
+- Percy Jackson
+- swarnalisen
+- MoniSenLee
