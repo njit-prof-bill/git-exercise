@@ -1,7 +1,7 @@
 | Name | Jason Zheng |
 | ---------------------------- | ------------------------------|
 | Favorite Programing Language | Python |
-| Favroite IDE | Visual Studio Code |
+| Favorite IDE | Visual Studio Code |
 | Hobby | Watching Sports |
 | Favorite Childhood Show | Regular Show |
 | Favoirte Video Game | Call of Duty: Warzone |
