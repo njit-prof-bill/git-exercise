@@ -1,8 +1,10 @@
-Your name
-- Your favorite programming language: C++
-- Your preferred IDE: VS Code
-- Your hobbies: hiking
-- Your favorite cartoon from your childhood: Tom and Jerry
-- A favorite movie, book, music, or video game: Fallout: New Vegas
-- Your discord id: sample__text
-- Your GitHub id: jswitlyk
+| Question                      | Answer             |
+| ----------------------------- | ------------------ |
+| Name                          | Jeremy             |
+| Favorite Programming Language | C++                |
+| Preferred IDE                 | VS Code            |
+| Hobby                         | Hiking             |
+| Favorite Cartoon              | Tom & Jerry        |
+| Favorite Video Game           | Fallout: New Vegas |
+| Discord ID                    | @Sample Text       |
+| Github ID                     | jswitlyk           |
