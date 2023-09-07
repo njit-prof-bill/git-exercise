@@ -4,6 +4,6 @@
 | Favorite IDE | Visual Studio Code |
 | Hobby | Watching Sports |
 | Favorite Childhood Show | Regular Show |
-| Favoirte Video Game | Call of Duty: Warzone |
+| Favorite Video Game | Call of Duty: Warzone |
 | Discord | @jason.zheng |
 | GitHubId | @jasonzheng32 |
