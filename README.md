@@ -1,5 +1,5 @@
 # Git and GitHub Excercise
-This is a simple excercise to get familiar with using Git and GitHub. Students will collaborate to create a "Class Roster" where each person contributes their personal information. This will demonstrate branching, cloning, creating a PR, reviewing, and merging.
+This is a simple exercise to get familiar with using Git and GitHub. Students will collaborate to create a "Class Roster" where each person contributes their personal information. This will demonstrate branching, cloning, creating a PR, reviewing, and merging.
 
 ### Tools Required
 - A computer with Git installed.
