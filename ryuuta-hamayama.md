@@ -1,5 +1,6 @@
 
 |About Me                                  |                                    |
+|--------------------------------|--------------------------------|
 | Name                                | Ryuuta Hamayama |
 | Favorite Programming Language       | Python                              |
 | Preferred IDE                       | VSCode                  |
