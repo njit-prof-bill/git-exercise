@@ -1,4 +1,4 @@
-| **Prompt**                              | **Hwa's Information**                 |
+| **Questions**                              | **Answers**                 |
 |------------------------------------------|-------------------------------------|
 | Your Name                                | Kauvya Palle |
 | Your Favorite Programming Language       | Python                              |
