@@ -1,5 +1,6 @@
-| Name                          | name          |
+| Item                          | Entry         |
 |-------------------------------|---------------|
+| Name                          | Josh          |
 | Favorite Programming Language | C++           |
 | Preferred IDE                 | vim/vscode    |
 | Hobbies                       | Sim racing    |
