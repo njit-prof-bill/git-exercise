@@ -3,7 +3,7 @@
 | Name | Pruthul|
 | Programming Language | Python and c|
 | IDE | VScode |
-| Hobbies | Cricket, Hockry |
+| Hobbies | Cricket |
 | Cartoon | Tom&Jerry |
 | Book | None |
 | Discord ID | Pruthul Patel#5216 |
