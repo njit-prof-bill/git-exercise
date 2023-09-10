@@ -7,6 +7,6 @@
 | Favorite Band | The Strokes |
 | Favorite Game | Bloodborne |
 | Favorite Cartoon | Spongebob Squarepants |
-| Discord | Sunfee Kim |
-| Github | Sunfee Kim |
+| Discord | Robocop #3105 |
+| Github | sdk6 |
 
