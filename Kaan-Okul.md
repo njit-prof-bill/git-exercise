@@ -6,5 +6,5 @@
 | Hobbies                  | playing guitar, listening to music, watching movies |
 | Favorite Cartoon         | Naruto          |
 | Favorite Movie           | John Wick       |
-| Discord ID               | Kaan Okul       |
+| Discord ID               | kaanismet7       |
 | Github ID                | KaanIsmet       |
