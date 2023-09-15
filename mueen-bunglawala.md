@@ -4,7 +4,7 @@
 | C++ |
 | VScode |
 | Tennis |
-| Doremon, Sinchen, Tom and Jerry  |
+| Doremon, Sinchen  |
 | Kafka On The Shore |
 | Bungo-ex#6743 |
 | bungex |
