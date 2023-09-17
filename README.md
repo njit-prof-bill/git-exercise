@@ -11,6 +11,7 @@ This assignment is due Sunday 9/10 at midnight.
 - Instructor created a new public repository on GitHub called `git-exercise`.
 - The repo has a README.md that explains the project: "This is a collaborative roster. Each contributor should add their personal information."
 - The repository is available at https://github.com/njit-prof-bill/git-exercise.
+- The instructor will send an invite to this repository that will allow you to push your branch to GitHub. In order for him to send the invite, you must post your GitHub id in the Discord #General channel.
 
 ### Step 2: Cloning the Repository
 1. Each student clones the repository to their local machine using:
