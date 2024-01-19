@@ -73,4 +73,3 @@ After their PRs have been merged, students should update their local main branch
 ```
 git checkout main
 git pull origin main
-```
